@@ -1,0 +1,25 @@
+{
+	"username" : "yournamehere",
+	"password" : "oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"channelname" : "yourchannelhere",
+
+	"helpEnabled": true,
+	"thoughtsEnabled": true,
+	"soundboardEnabled": true,
+	"killminigameEnabled": false,
+
+	"thoughtsCooldown": 60,
+	"soundboardCooldown": 60,
+	"phraseComboLimit": 5,
+
+	"killStartingThreshold": 101,
+	"killIncreaseWhenComplete": 1.1,
+	"sacrificeTimer":100,
+
+	"rulesInterval": 7200,
+	"pingInterval": 60
+
+}
+
+
+	
